@@ -24,7 +24,7 @@ It includes training, validation-based hyperparameter selection, final evaluatio
 
 ```text
 .
-├── try.py      # main experiment script
+├── main.py      # main experiment script
 ├── plot.py       # plotting script
 ├── results/      # generated CSV files
 └── figures/      # generated plots
@@ -52,7 +52,7 @@ pip install pandas numpy matplotlib scikit-learn datasets fasttext
 ## Run Experiments
 
 ```bash
-python try.py
+python main.py
 ```
 
 This will:
