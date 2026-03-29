@@ -91,4 +91,4 @@ The `figures/` directory contains:
 
 ## Reproducibility
 
-The pipeline uses fixed seeds for validation splitting and final runs. All outputs are saved automatically, making it easier to reproduce and inspect results.
+The setup uses fixed seeds for validation splitting and final runs. All outputs are saved automatically, making it easier to reproduce and inspect results.
