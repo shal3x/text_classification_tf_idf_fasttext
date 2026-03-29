@@ -24,7 +24,7 @@ It includes training, validation-based hyperparameter selection, final evaluatio
 
 ```text
 .
-├── main.py      # main experiment script
+├── main.py       # main experiment script
 ├── plot.py       # plotting script
 ├── results/      # generated CSV files
 └── figures/      # generated plots
